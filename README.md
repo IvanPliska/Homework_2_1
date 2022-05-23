@@ -19,7 +19,9 @@
 
 Ниже пример кода из нашего приложения:
 
-```scc {
+```css
+ {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-} ```
+} 
+```
